@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <NameOfLastUsedPublishProfile>C:\Users\Admin\source\repos\WebApp_OpenIDConnect_ASPNetCore5_Sample\WebApp_OpenIDConnect_ASPNetCore5_Sample\Properties\PublishProfiles\WebAppOpenIDConnectASPNetCore5Sample - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>
